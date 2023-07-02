@@ -400,3 +400,5 @@ FodyWeavers.xsd
 
 mlruns/
 data/amazon_2023.csv
+data/amazon_22.csv
+data/amazon_22_quarters.csv
