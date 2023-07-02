@@ -397,8 +397,13 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+amazon_venv
+.ipynb_checkpoints
 
 mlruns/
 data/amazon_2023.csv
 data/amazon_22.csv
 data/amazon_22_quarters.csv
+
+predResults/
+
