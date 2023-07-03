@@ -1,0 +1,7 @@
+YearQuarter,PricePerUnit,LeaseContractLength,PurchaseOption,vCPU,DiskType,operatingSystem,Memory,networkPerformance,StorageSize,Quarter,year
+2022Q2,0.3768718229166667,2.0,Partial Upfront,4.0,SSD,Linux,16.0,10.0,250.0,2.0,2022
+2022Q4,0.3430166666666667,2.0,Partial Upfront,4.0,SSD,Linux,16.0,10.0,250.0,4.0,2022
+2023Q1,0.3430166666666667,2.0,Partial Upfront,4.0,SSD,Linux,16.0,10.0,250.0,4.0,2023
+2023Q2,0.3430166666666667,2.0,Partial Upfront,4.0,SSD,Linux,16.0,10.0,250.0,4.0,2023
+2023Q3,0.3430166666666667,2.0,Partial Upfront,4.0,SSD,Linux,16.0,10.0,250.0,4.0,2023
+2023Q4,0.3430166666666667,2.0,Partial Upfront,4.0,SSD,Linux,16.0,10.0,250.0,4.0,2023
